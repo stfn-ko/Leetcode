@@ -1,6 +1,6 @@
 |    Status     | Problem                      |   Difficulty    |
 | :-----------: | :--------------------------- | :-------------: |
-| <li>[ ] </li> | Contains Duplicate           | :green_circle:  |
+| <li>[x] </li> | Contains Duplicate           | :green_circle:  |
 | <li>[ ] </li> | Valid Anagram                | :green_circle:  |
 | <li>[ ] </li> | Two Sum                      | :green_circle:  |
 | <li>[ ] </li> | Group Anagrams               | :yellow_circle: |
