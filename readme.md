@@ -4,7 +4,10 @@ As a part of my software developement journey I decided that i need to crack the
 
 ## Navigate to
 
-1. [Arrays & Hashing](https://github.com/stfn-ko/Leetcode/tree/main/Arrays%26Hashing)
+1. [Arrays & Hashing](Topics/Arrays&Hashing/)
+    1. [Contains Duplicate](Topics/Arrays&Hashing/contains_duplicate)
+    2. [Valid Anagram](Topics/Arrays&Hashing/valid_anagram)
+
 
 ## Roadmap
 ![alt text](content/roadmap.png)
