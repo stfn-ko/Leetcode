@@ -1,6 +1,6 @@
 ## ✅ Valid Anagram
 
-### Task:
+## Task:
 
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
@@ -28,7 +28,7 @@ Output: false
 
 ---
 
-### Solution
+## Solution
 
 In my [first implementation](Topics/Arrays&Hashing/valid_anagram/unordered_map_v1.cpp) i first compared the sizes of
 both strings. In case they are different sizes, I would return `false`, because in that case strings can't be anogramic (is this a real word?). Then I iterated through both strings pushing each `char` to `unordered_map`. Such solution proved to be slow.
@@ -51,7 +51,7 @@ for (const auto &_ : some_string) {
 }
 ```
 
-#### Additional links
+### Additional links
 
 * [String operator[]](https://cplusplus.com/reference/string/string/operator[]/)
 * [String size()](https://cplusplus.com/reference/string/string/size/)
