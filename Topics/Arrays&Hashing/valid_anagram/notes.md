@@ -26,6 +26,8 @@ Output: false
 
 `* s and t consist of lowercase English letters.`
 
+---
+
 ### Solution
 
 In my [first implementation](Topics/Arrays&Hashing/valid_anagram/unordered_map_v1.cpp) i first compared the sizes of
