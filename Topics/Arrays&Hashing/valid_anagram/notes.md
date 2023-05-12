@@ -1,4 +1,4 @@
-## :check_mark_button: Valid Anagram
+## ✅ Valid Anagram
 
 ### Task:
 
@@ -53,5 +53,5 @@ for (const auto &_ : some_string) {
 
 #### Additional links
 
-[String operator[]](https://cplusplus.com/reference/string/string/operator[]/)
-[String size()](https://cplusplus.com/reference/string/string/size/)
+* [String operator[]](https://cplusplus.com/reference/string/string/operator[]/)
+* [String size()](https://cplusplus.com/reference/string/string/size/)
