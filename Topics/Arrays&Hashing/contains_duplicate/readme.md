@@ -48,4 +48,4 @@ std::unordered_map<int, int> um; // worked
 
 #### Additional links
 
-* [Rust HashSet](https://doc.rust-lang.org/std/collections/struct.HashSet.html)
+- [Rust: std::collections::HashSet](https://doc.rust-lang.org/std/collections/struct.HashSet.html)
