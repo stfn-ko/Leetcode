@@ -1,11 +1,10 @@
-|    Status     | Problem                      |                         LeetCode                         |   Difficulty    |
-| :-----------: | :--------------------------- | :------------------------------------------------------: | :-------------: |
-| <li>[x] </li> | Contains Duplicate           | [link](https://leetcode.com/problems/contains-duplicate) | :green_circle:  |
-| <li>[ ] </li> | Valid Anagram                |                                                          | :green_circle:  |
-| <li>[ ] </li> | Two Sum                      |                                                          | :green_circle:  |
-| <li>[ ] </li> | Group Anagrams               |                                                          | :yellow_circle: |
-| <li>[ ] </li> | Top K Frequent Elements      |                                                          | :yellow_circle: |
-| <li>[ ] </li> | Product of Array Except Self |                                                          | :yellow_circle: |
-| <li>[ ] </li> | Valid Sudoku                 |                                                          | :yellow_circle: |
-| <li>[ ] </li> | Encode and Decode Strings    |                                                          | :yellow_circle: |
-| <li>[ ] </li> | Longest Consecutive Sequence |                                                          | :yellow_circle: |
+|    Status     | Problem                      |                              LeetCode                              |   Difficulty    |
+| :-----------: | :--------------------------- | :----------------------------------------------------------------: | :-------------: |
+| <li>[x] </li> | Contains Duplicate           |      [link](https://leetcode.com/problems/contains-duplicate)      | :green_circle:  |
+| <li>[ ] </li> | Valid Anagram                |        [link](https://leetcode.com/problems/valid-anagram)         | :green_circle:  |
+| <li>[ ] </li> | Two Sum                      |           [link](https://leetcode.com/problems/two-sum)            | :green_circle:  |
+| <li>[ ] </li> | Group Anagrams               |        [link](https://leetcode.com/problems/group-anagrams)        | :yellow_circle: |
+| <li>[ ] </li> | Top K Frequent Elements      |   [link](https://leetcode.com/problems/top-k-frequent-elements)    | :yellow_circle: |
+| <li>[ ] </li> | Product of Array Except Self | [link](https://leetcode.com/problems/product-of-array-except-self) | :yellow_circle: |
+| <li>[ ] </li> | Valid Sudoku                 |         [link](https://leetcode.com/problems/valid-sudoku)         | :yellow_circle: |
+| <li>[ ] </li> | Longest Consecutive Sequence | [link](https://leetcode.com/problems/longest-consecutive-sequence) | :yellow_circle: |
