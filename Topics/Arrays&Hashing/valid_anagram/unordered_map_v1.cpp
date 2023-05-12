@@ -1,5 +1,5 @@
-// @Runtime 19ms (15.83%)
-// @Memory 7.4MB (56.19%)
+// @Runtime 19 ms (15.83%)
+// @Memory 7.4 MB (56.19%)
 
 bool isAnagram(string s, string t)
 {
