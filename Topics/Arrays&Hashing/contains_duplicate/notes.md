@@ -31,6 +31,8 @@ Output: true
 
 `* -109 <= nums[i] <= 109`
 
+---
+
 ### Solution
 
 Since I had previously solved similar problems my initial thought is to use an [unordered map](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/). I will iterate through the array and populate a key-value store where each i-th element is a key and amount the of its appearances is the value. If any value gets bigger then one return true, else false.
@@ -46,4 +48,4 @@ std::unordered_map<int, int> um; // worked
 
 #### Additional links
 
-[Rust HashSet](https://doc.rust-lang.org/std/collections/struct.HashSet.html)
+* [Rust HashSet](https://doc.rust-lang.org/std/collections/struct.HashSet.html)
