@@ -4,12 +4,18 @@ As a part of my software developement journey I decided that i need to crack the
 
 ## Navigate to
 
-1. [Arrays & Hashing](Topics/Arrays&Hashing/)
-    1. [Contains Duplicate](Topics/Arrays&Hashing/contains_duplicate)
-    2. [Valid Anagram](Topics/Arrays&Hashing/valid_anagram)
-
+- [Arrays & Hashing](Topics/Arrays&Hashing/)
+  - [Contains Duplicate](Topics/Arrays&Hashing/contains_duplicate)
+  - [Valid Anagram](Topics/Arrays&Hashing/valid_anagram)
+  - [Two Sum ](Topics/Arrays&Hashing/two_sum)
+  - [Group Anagrams ](Topics/Arrays&Hashing/group_anagrams)
+  - [Top K Frequent Elements ](Topics/Arrays&Hashing/top_k_frequent_elements)
+  - [Product of Array Except Self ](Topics/Arrays&Hashing/product_of_array_except_self)
+  - [Valid Sudoku ](Topics/Arrays&Hashing/valid_sudoku)
+  - [Longest Consecutive Sequence](Topics/Arrays&Hashing/longest_consecutive_sequence)
 
 ## Roadmap
+
 ![alt text](content/roadmap.png)
 
-> *this roadmap was taken from https://neetcode.io/roadmap*
+> _this roadmap was taken from https://neetcode.io/roadmap_
