@@ -53,5 +53,5 @@ for (const auto &_ : some_string) {
 
 ### Additional links
 
-* [String operator[]](https://cplusplus.com/reference/string/string/operator[]/)
-* [String size()](https://cplusplus.com/reference/string/string/size/)
+- [CPP: string::operator[]](https://cplusplus.com/reference/string/string/operator[]/)
+- [CPP: string::size()](https://cplusplus.com/reference/string/string/size/)
