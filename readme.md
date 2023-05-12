@@ -4,7 +4,7 @@ As a part of my software developement journey I decided that i need to crack the
 
 ## Navigate to
 
-1. [Arrays & Hashing](#arrays--hashing)
+1. [Arrays & Hashing](https://github.com/stfn-ko/Leetcode/tree/main/Arrays%26Hashing)
 
 ## Roadmap
 ![alt text](content/roadmap.png)
