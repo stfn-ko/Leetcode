@@ -11,15 +11,7 @@ public:
         std::unordered_map<int, int> um;
 
         for (const auto num : nums)
-        {
-            if (!um[num])
-                um[num] = 1;
-            else
-                ++um[num];
-
-            if (um[num] > 1)
-                return true;
-        }
+            (um[num] > 1) ? return true : ++um[num];
 
         return false;
     }
