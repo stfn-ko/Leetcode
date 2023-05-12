@@ -27,13 +27,9 @@ Output: true
 
 #### Constraints:
 
-```
-* 1 <= nums.length <= 105
-```
+`* 1 <= nums.length <= 105`
 
-```
-* -109 <= nums[i] <= 109
-```
+`* -109 <= nums[i] <= 109`
 
 ### Solution
 
