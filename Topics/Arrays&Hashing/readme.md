@@ -1,7 +1,7 @@
 |    Status     | Problem                      |                              LeetCode                              |   Difficulty    |
 | :-----------: | :--------------------------- | :----------------------------------------------------------------: | :-------------: |
 | <li>[x] </li> | Contains Duplicate           |      [link](https://leetcode.com/problems/contains-duplicate)      | :green_circle:  |
-| <li>[ ] </li> | Valid Anagram                |        [link](https://leetcode.com/problems/valid-anagram)         | :green_circle:  |
+| <li>[x] </li> | Valid Anagram                |        [link](https://leetcode.com/problems/valid-anagram)         | :green_circle:  |
 | <li>[ ] </li> | Two Sum                      |           [link](https://leetcode.com/problems/two-sum)            | :green_circle:  |
 | <li>[ ] </li> | Group Anagrams               |        [link](https://leetcode.com/problems/group-anagrams)        | :yellow_circle: |
 | <li>[ ] </li> | Top K Frequent Elements      |   [link](https://leetcode.com/problems/top-k-frequent-elements)    | :yellow_circle: |
