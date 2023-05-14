@@ -1,3 +1,6 @@
+// @Runtime 28 ms (95.11%)
+// @Memory 19.5 MB (85.35%)
+
 std::vector<std::vector<std::string>> groupAnagrams(std::vector<std::string> &strs)
 {
     std::unordered_map<std::string, std::vector<std::string>> map;
