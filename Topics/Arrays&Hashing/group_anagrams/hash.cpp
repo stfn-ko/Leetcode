@@ -3,19 +3,19 @@
 
 std::vector<std::vector<std::string>> groupAnagrams(std::vector<std::string> &strs)
 {
-    std::unordered_map<std::string, std::vector<std::string>> map;
-    for (const auto &str : strs)
+    std::unordered_map<std::string, std::vector<std::string>> m;
+    std::vector<std::vector<std::string>> Q;
+
+    for (const auto &s_ : strs)
     {
-        std::string temp = str;
-        std::sort(temp.begin(), temp.end());
-        map[t].push_back(str);
+        std::string t = s_;
+        std::sort(t.begin(), t.end());
+        m[t].push_back(s_);
     }
 
-    std::vector<std::vector<std::string>> ans;
-    for (const auto &m : map)
-    {
-        ans.push_back(m.second);
-    }
+    Q.reserve(m.size());
+    for (const auto &m_ : m)
+        Q.push_back(std::move(m_.second));
 
-    return ans;
+    return Q;
 }
