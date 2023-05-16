@@ -1,2 +1,4 @@
-vector<int> productExceptSelf(vector<int> &nums){
+std::vector<int> productExceptSelf(std::vector<int> &nums)
+{
+
 }
