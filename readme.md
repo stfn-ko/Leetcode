@@ -16,6 +16,6 @@ As a part of my software developement journey I decided that i need to crack the
 
 ## Roadmap
 
-![alt text](content/roadmap.png)
+![alt text](public/roadmap.png)
 
 > _this roadmap was taken from https://neetcode.io/roadmap_
