@@ -28,7 +28,8 @@ Output: [1]
 ---
 
 ## Solution
-
+To solve this you need to populate an unordered map, where first element is a number in nums and the second element is its frequency. Then you use a priority queue of pairs, where the first element in the pair is unordered map's second element (frequency) and second element is unordered map's first element (number). This way priority queue contains a list of numbers sorted by their frequency. You start pushing numbers into the return vector when the size of priority queue is bigger than the size of unordered map minus k.    
 
 ### Additional links
 
+- [CPP: priority_queue()](https://cplusplus.com/reference/queue/priority_queue/?kw=priority_queue+)
