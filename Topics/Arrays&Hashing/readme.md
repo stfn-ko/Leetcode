@@ -7,4 +7,4 @@
 | <li>[x] </li> | Top K Frequent Elements      |   [link](https://leetcode.com/problems/top-k-frequent-elements)    | :yellow_circle: |
 | <li>[x] </li> | Product of Array Except Self | [link](https://leetcode.com/problems/product-of-array-except-self) | :yellow_circle: |
 | <li>[x] </li> | Valid Sudoku                 |         [link](https://leetcode.com/problems/valid-sudoku)         | :yellow_circle: |
-| <li>[ ] </li> | Longest Consecutive Sequence | [link](https://leetcode.com/problems/longest-consecutive-sequence) | :yellow_circle: |
+| <li>[x] </li> | Longest Consecutive Sequence | [link](https://leetcode.com/problems/longest-consecutive-sequence) | :yellow_circle: |
