@@ -13,6 +13,14 @@ As a part of my software developement journey I decided that i need to crack the
   - [Product of Array Except Self ](Topics/Arrays&Hashing/product_of_array_except_self)
   - [Valid Sudoku ](Topics/Arrays&Hashing/valid_sudoku)
   - [Longest Consecutive Sequence](Topics/Arrays&Hashing/longest_consecutive_sequence)
+- [Stack](Topics/Stack/)
+  - [Valid Parentheses]
+  - [Min Stack]
+  - [Evaluate Reverse Polish Notation]
+  - [Generate Parentheses]	
+  - [Daily Temperatures]
+  - [Car Fleet]
+  - [Largest Rectangle In Histogram]
 
 ## Roadmap
 
