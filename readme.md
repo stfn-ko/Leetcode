@@ -14,13 +14,13 @@ As a part of my software developement journey I decided that i need to crack the
   - [Valid Sudoku ](Topics/Arrays&Hashing/valid_sudoku)
   - [Longest Consecutive Sequence](Topics/Arrays&Hashing/longest_consecutive_sequence)
 - [Stack](Topics/Stack/)
-  - [Valid Parentheses]
-  - [Min Stack]
-  - [Evaluate Reverse Polish Notation]
-  - [Generate Parentheses]	
-  - [Daily Temperatures]
-  - [Car Fleet]
-  - [Largest Rectangle In Histogram]
+  - [Valid Parentheses](Topics/Stack/valid_parentheses)
+  - [Min Stack](Topics/Stack/min_stack)
+  - [Evaluate Reverse Polish Notation](Topics/Stack/evaluate_reverse_polish_notation)
+  - [Generate Parentheses](Topics/Stack/generate_parentheses)
+  - [Daily Temperatures](Topics/Stack/daily_temperatures)
+  - [Car Fleet](Topics/Stack/car_fleet)
+  - [Largest Rectangle In Histogram](Topics/Stack/largest_rectangle_in_histogram)
 
 ## Roadmap
 
